@@ -19,7 +19,7 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 </div>
 </div> --> 
 
-## 🙋‍♀️ Let's Connect
+<div align="center">## 🙋‍♀️ Let's Connect</div>
 <p align="center">
   <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailto:chaitanyalonarkar@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
