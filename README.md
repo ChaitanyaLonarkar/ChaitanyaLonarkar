@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Chaitanya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/ChaitanyaLonarkar"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+<!--   <a href="https://github.com/ChaitanyaLonarkar"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a> -->
   <a href="https://github.com/ChaitanyaLonarkar"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
@@ -13,13 +13,13 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 </h4>
 <br>
 <!-- <div align="center">
-<!--<div align="center">
+<div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
-</div> --> -->
-<hr/> 
+</div> --> 
+
 
 
 
