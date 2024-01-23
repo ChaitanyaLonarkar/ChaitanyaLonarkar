@@ -8,7 +8,7 @@
 
 <h4 align="center">
 I'm a Front End Developer based in India 🙏, I am passionate about open-source, coding, and web technologies❤️. <br />
-	Besides my job, I like to create and contribute to open source projects. It helps me learn a lot and grow as a developer while also supporting other open source projects.
+	Besides my studies, I like to create and contribute to open source projects. It helps me learn a lot and grow as a developer while also supporting other open source projects.
 </h4>
 <br>
 <!-- <div align="center">
