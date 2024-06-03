@@ -1,4 +1,5 @@
-<!--<img align="center" src="https://drive.google.com/file/d/1fviNSKL-W3RNOuvMlMP6G1QKPDLCfzup/view?usp=drive_link](https://drive.google.com/file/d/1fviNSKL-W3RNOuvMlMP6G1QKPDLCfzup/view?usp=sharing" alt="html5" width="100" height="100"/> -->
+<div align="center">
+<img  src="https://github.com/ChaitanyaLonarkar/ChaitanyaLonarkar/blob/main/avatar2.png" alt="html5" width="110" height="140"/></div>
 <h1 align="center">Hi , I'm Chaitanya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <!--   <a href="https://github.com/ChaitanyaLonarkar"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a> -->
