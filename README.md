@@ -41,7 +41,6 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 	<a href="https://github.com/ChaitanyaLonarkar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
 	<a href="https://in.linkedin.com/in/chaitanya-lonarkar-581960244"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 	 <a href="https://twitter.com/CLonarkar24"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a> 
-	<!--<a href="https://stackoverflow.com/users/13516564/jay"><img src="https://img.icons8.com/bubbles/50/000000/module.png" title='Stack Overflow' alt="stack overflow"/></a>  -->
 	 <a href="https://www.instagram.com/mr_perfect2409/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<!--<a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
 	
