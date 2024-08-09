@@ -80,8 +80,9 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+<h1 align="center"> 🏆 GitHub Trophies </h1>
+<br>
 <p align="center"> 
-	<h1> 🏆 GitHub Trophies </h1>
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaLonarkar&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="ChaitanyaLonarkar" /></a> 
 </p>
 
