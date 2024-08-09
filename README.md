@@ -1,3 +1,6 @@
+<!-- [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/DhayanandhS) -->
+
+
 <div align="center">
 <img  src="https://github.com/ChaitanyaLonarkar/ChaitanyaLonarkar/blob/main/avatar2.png" alt="html5" width="110" height="140"/></div>
 <h1 align="center">Hi , I'm Chaitanya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
