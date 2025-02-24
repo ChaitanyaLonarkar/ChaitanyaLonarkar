@@ -34,7 +34,7 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 </div> --> 
 
 
-- 🔭 I’m currently learning and working on MERN Stack (Backend Technologies)
+- 🔭 I’m currently learning and working on MERN Stack (NextJs and Typescript)
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
